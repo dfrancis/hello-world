@@ -1,0 +1,3 @@
+#!/bin/sh
+
+uname -s -i | sed 's/ /_/g'
